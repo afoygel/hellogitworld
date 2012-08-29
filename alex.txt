@@ -1,1 +1,2 @@
-Message from Alex
+Message from Alex.
+Version 2
